@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Aditya4453
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
+- Email : modaniaditya06@gmail.com
+- Linkedin : https://www.linkedin.com/in/aditya-modani-2b5654309/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am beginner rn 
 
