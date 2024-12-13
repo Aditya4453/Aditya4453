@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Aditya4453
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in building meaningful connections, exploring technology, and continuously learning new skills.
+- 🌱 I’m currently learning Web Development and diving into JavaScript and Python.
 - 📫 How to reach me
-- Email : modaniaditya06@gmail.com
-- Linkedin : https://www.linkedin.com/in/aditya-modani-2b5654309/
+-  Email : modaniaditya06@gmail.com
+-  Linkedin : https://www.linkedin.com/in/aditya-modani-2b5654309/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am beginner rn 
+- ⚡ Fun fact: I’m a beginner with big aspirations, taking one step at a time toward my goals!
+
 
 <!---
 Aditya4453/Aditya4453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
