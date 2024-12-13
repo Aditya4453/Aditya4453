@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya4453
-- 👀 I’m interested in building meaningful connections, exploring technology, and continuously learning new skills.
+- 👀 I’m interested in making new friends, exploring technology, and continuously learning new skills.
 - 🌱 I’m currently learning Web Development and diving into JavaScript and Python.
 - 📫 How to reach me
 -  Email : modaniaditya06@gmail.com
