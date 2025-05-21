@@ -38,6 +38,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya4453/Aditya4453/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+
