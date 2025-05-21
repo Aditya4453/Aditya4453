@@ -1,3 +1,5 @@
+![Banner](./banner.gif)
+
 <h1 align="center">Hey there! 👋 I'm Aditya</h1>
 
 <p align="center">
