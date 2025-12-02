@@ -20,7 +20,7 @@
 
 ```yaml
 name: Aditya
-education: BTech CSE (1st Year)
+education: BTech CSE (2nd Year)
 currently_learning: [Web Development, JavaScript, Python, React]
 hobbies: [Coding, Exploring Tech, Building Projects]
 motto: "One step at a time toward my goals"
