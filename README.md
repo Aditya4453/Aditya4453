@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Building+things+one+line+at+a+time;Learning+Web+Development;Exploring+JavaScript+%26+Python;Dreaming+big%2C+starting+small)](https://git.io/typing-svg)
+![Animated text: Building things one line at a time, Learning Web Development, Exploring JavaScript & Python, Dreaming big starting small](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Building+things+one+line+at+a+time;Learning+Web+Development;Exploring+JavaScript+%26+Python;Dreaming+big%2C+starting+small)
 
 </div>
 
@@ -47,8 +47,8 @@ motto: "One step at a time toward my goals"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya4453&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya4453&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya4453&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="Aditya's GitHub Statistics showing commits, PRs, issues, and contributions" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya4453&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Aditya's GitHub contribution streak statistics" height="165"/>
 
 </div>
 
