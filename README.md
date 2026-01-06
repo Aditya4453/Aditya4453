@@ -1,10 +1,5 @@
-<div align="center">
 
-🌙
-
-<img src="banner.gif" alt="banner" />
-</div>
-# Hi, I’m Aditya 👋
+### Hi, I’m Aditya 👋
 
 🎓 BTech CSE Student  
 💻 Aspiring Developer  
