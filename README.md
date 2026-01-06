@@ -1,16 +1,39 @@
 <div align="center">
 
-<img src="banner.gif" alt="banner" />
+🌙
 
-# Aditya
+<img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
 
-BTech CSE student · Aspiring developer  
-Learning web development and building things step by step.
+# Hi, I’m Aditya 👋
+
+🎓 BTech CSE Student  
+💻 Aspiring Developer  
+🌱 Learning & building one step at a time
 
 </div>
 
 ---
 
-I’m a beginner focused on consistency, clean code, and steady growth.  
-Currently exploring JavaScript, React, and Python while working on small projects.
+### ✨ About Me
 
+I’m a beginner developer focused on **consistency**, **clean code**,  
+and **steady growth** rather than rushing results.
+
+Currently exploring **JavaScript**, **React**, and **Python**,  
+while building small projects and learning from mistakes.
+
+---
+
+### 🎯 Current Focus
+
+- ⚛️ Frontend projects with React  
+- 🧠 DSA & problem-solving basics  
+- 📚 Daily learning & discipline  
+
+---
+
+<div align="center">
+
+🌱 *Growing slowly, building honestly.*
+
+</div>
