@@ -1,5 +1,5 @@
 <div>
-  <img src="download (1).jpg" style="width:100%;height:70%">
+  <img src="download (1).jpg" style="width:100%;height:50%">
 </div>
 
 ### Hi, I’m Aditya 👋
