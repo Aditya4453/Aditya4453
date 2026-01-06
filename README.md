@@ -2,15 +2,15 @@
 
 🌙
 
-<img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
-
+<img src="banner.gif" alt="banner" />
+</div>
 # Hi, I’m Aditya 👋
 
 🎓 BTech CSE Student  
 💻 Aspiring Developer  
 🌱 Learning & building one step at a time
 
-</div>
+
 
 ---
 
