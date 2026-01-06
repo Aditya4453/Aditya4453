@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
+<img src="banner.gif" alt="banner" />
 
 # Aditya
 
