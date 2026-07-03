@@ -1,37 +1,25 @@
-<div>
-  <img src="download (1).jpg" style="width:100%;height:50%">
-</div>
+# hey, I'm Aditya 👋
 
-### Hi, I’m Aditya 👋
+I'm a BTech CSE student figuring things out as a developer — one project, one bug, one small win at a time. No rush, no shortcuts. Just showing up and getting a little better each day.
 
-🎓 BTech CSE Student  
-💻 Aspiring Developer  
-🌱 Learning & building one step at a time
+Right now I'm deep into **JavaScript**, **React**, and **Python**, building small things and letting my mistakes teach me more than tutorials do.
 
+### what I'm doing these days
 
+- building small React projects to actually *use* what I learn, not just read about it
+- working through DSA basics — slow, but it's sticking
+- trying to code (or at least learn) a little every day, even on the days I don't feel like it
 
----
+### how I think about this
 
-### ✨ About Me
+I'm not chasing being the "fastest learner" or the flashiest portfolio. I'd rather be the person who's still here, still building, a year from now. Consistency over intensity — that's the whole plan.
 
-I’m a beginner developer focused on **consistency**, **clean code**,  
-and **steady growth** rather than rushing results.
+### say hi
 
-Currently exploring **JavaScript**, **React**, and **Python**,  
-while building small projects and learning from mistakes.
-
----
-
-### 🎯 Current Focus
-
-- ⚛️ Frontend projects with React  
-- 🧠 DSA & problem-solving basics  
-- 📚 Daily learning & discipline  
+- GitHub: [@aditya4453](#)
+- LinkedIn: [Aditya Modani](#)
+- Email: modaniaditya06@gmail.com
 
 ---
 
-<div align="center">
-
-🌱 *Growing slowly, building honestly.*
-
-</div>
+*still figuring it out — but figuring it out honestly.* 🌱
